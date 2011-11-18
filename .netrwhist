@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/keegan/dev/main/.git/objects'
+let g:netrw_dirhist_2='/Users/keegan/dev/main/.git/refs'
+let g:netrw_dirhist_3='/Users/keegan/dev/main/.git/refs/remotes'
+let g:netrw_dirhist_4='/Users/keegan/dev/main/.git/refs/remotes/origin'
